@@ -1,1 +1,2 @@
 A file azuredev create in gitrepo 
+these line to crete git pull
